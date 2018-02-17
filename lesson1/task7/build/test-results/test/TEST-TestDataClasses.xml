@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestDataClasses" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-28T21:45:23" hostname="Benjamins-MacBook-Pro.local" time="0.031">
+  <properties/>
+  <testcase name="testListOfPeople" classname="TestDataClasses" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

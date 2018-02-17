@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestExtensionsOnCollections" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-02-01T23:42:22" hostname="benjamins-mbp.lan" time="0.023">
+  <properties/>
+  <testcase name="testSort" classname="TestExtensionsOnCollections" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
